@@ -1,0 +1,1 @@
+// Write a funcation to print all prime numbers 2 to N.
